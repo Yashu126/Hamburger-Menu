@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.page-found {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.not-found-img {
+  width: 50%;
+}
+
+.not-head {
+  color: #616e7c;
+  text-align: center;
+}
+
+.not-description {
+  color: #dcdcdc;
+  text-align: center;
+}
